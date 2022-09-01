@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { Header } from '../components'
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
       <Head>
         <title>login</title>
       </Head>
-      <header></header>
+      <Header />
       <section></section>
       <footer></footer>
     </>
