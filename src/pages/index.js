@@ -8,8 +8,6 @@ export default function Home() {
         <title>login</title>
       </Head>
       <Header />
-      <section></section>
-      <footer></footer>
     </>
   )
 }
